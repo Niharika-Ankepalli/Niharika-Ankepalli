@@ -19,11 +19,17 @@ Welcome to my GitHub profile! I'm a passionate Full Stack Developer currently pu
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 
-## Projects
+## My Projects
+
 - **Student Admission Portal** – Dynamic admission system with PHP, MySQL, and JavaScript.
-- **Travel & Tourism Website** – A beautiful, interactive city guide.
-- **E-Commerce Website** – A shopping platform with filter, sort, and API integration.
-- **Sweet Scoops** – An ice cream website with responsive design and image effects.
+
+- **[Travel & Tourism Website](https://explore-travel-tourism.netlify.app/
+)** – A beautiful, interactive city guide.
+
+- **[E-Commerce Website](https://e-commerce-website-smartmart.netlify.app/)** – A shopping platform with filter, sort, and API integration.
+
+- **[Sweet Scoops](https://sweet-scoops-shop.netlify.app/)** – An ice cream website with responsive design and image effects.
+
 
 ## 🤝 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankepalli-niharika)
