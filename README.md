@@ -21,7 +21,8 @@ Welcome to my GitHub profile! I'm a passionate Full Stack Developer currently pu
 
 ## My Projects
 
-- **Student Admission Portal** – Dynamic admission system with PHP, MySQL, and JavaScript.
+- **[Student Admission Portal](https://phpproject24.infinityfreeapp.com
+)** – Dynamic admission system with PHP, MySQL, and JavaScript.
 
 - **[Travel & Tourism Website](https://explore-travel-tourism.netlify.app/
 )** – A beautiful, interactive city guide.
