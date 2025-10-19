@@ -1,10 +1,10 @@
 ## Hi there, I'm Ankepalli Niharika 👋  
-Welcome to my GitHub profile! I'm a passionate Full Stack Developer currently pursuing my Master's in Computer Applications (MCA) at SPMVV, Tirupati. I focus on developing interactive, scalable, and user-friendly web applications. With a solid foundation in HTML, CSS, Bootstrap, JavaScript, React JS, Python, and SQL, I aim to apply both technical knowledge and problem-solving abilities to deliver efficient and impactful solutions.
+Welcome to my GitHub profile! I’m an MCA Graduate from SPMVV, Tirupati, and an aspiring Full Stack Developer. I build interactive, scalable, and user-friendly web applications using HTML, CSS, Bootstrap, JavaScript, React.js, Python, and SQL. I aim to apply my technical knowledge and problem-solving skills to deliver efficient and impactful solutions.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ankepalliniharika&color=blueviolet)
 
 ##  About Me
-- 🎓 MCA student at SPMVV, Tirupati
+- 🎓 MCA graduate from SPMVV, Tirupati
 - 💻 Interested in Full Stack Web Development
 - 🌱 Currently learning React.js and backend technologies
 - 💡 Love to work on real-world and dynamic web applications
